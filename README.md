@@ -132,7 +132,7 @@ Plan:
    - Traffic by hour of day
    - Shows clear rush hour peaks
    - Includes measurement counts
-
+<img width="2780" height="1980" alt="Image" src="https://github.com/user-attachments/assets/3b9d99b2-0fdc-4c4a-a409-2ac555ced61b" />
 2. **analysis_routes.png**
    - Comparison of all 10 routes
    - Sorted by average time
