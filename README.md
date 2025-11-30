@@ -144,6 +144,7 @@ Plan:
    - 15-month trend line
    - Shows seasonal changes
    - Includes data coverage
+     <img width="2780" height="1980" alt="Image" src="https://github.com/user-attachments/assets/81798925-ca5c-429d-a3d7-867f61de7965" />
 
 4. **analysis_weekday_weekend.png**
    - Weekday vs Weekend comparison
