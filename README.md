@@ -2,8 +2,8 @@
 
 **Data Science Project**
 
-Student: [Your Name]  
-Date: November 2024  
+Students: Manasova Gulum, Totoeva Aidai  
+Date: November 2025  
 Data Period: August 2024 - October 2025 (15 months)
 
 ---
