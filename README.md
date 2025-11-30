@@ -148,6 +148,7 @@ Plan:
 
 4. **analysis_weekday_weekend.png**
    - Weekday vs Weekend comparison
+     <img width="1980" height="1180" alt="Image" src="https://github.com/user-attachments/assets/7ed81c97-d548-4955-9adb-7c614403c6ca" />
 
 ---
 
